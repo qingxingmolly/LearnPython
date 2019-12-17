@@ -8,7 +8,7 @@
 * Markdown语法
 * 相关教程
   * Openmind
-  
+	  
 ### 搭建Python开发环境
 * Visul Studio Code
 * Anaconda
@@ -21,9 +21,13 @@
 
 ## 思维之剑
 ### 建立严谨清楚的逻辑链
-[严格按定义进行逻辑推演](https://zhuanlan.zhihu.com/p/59304917)
+[严格按定义进行逻辑推演 ][1]
 
-[严格按照逻辑推演2](https://zhuanlan.zhihu.com/p/63351503)
+[严格按照逻辑推演2][2]
 
 
 
+[1]:	https://zhuanlan.zhihu.com/p/59304917
+[2]:	https://zhuanlan.zhihu.com/p/63351503
+
+### 测试
